@@ -38,6 +38,7 @@ body {
 .site-title {
   color: whitesmoke;
   text-align: center;
+  text-shadow: 0.2rem 0.2rem goldenrod;
 }
 
 .site-title {
@@ -48,4 +49,25 @@ body {
 .site-subtitle {
   font-size: 2rem;
   font-style: italic;
+}
+
+#ad-alura {
+  width: 40%;
+  border-radius: 1rem;
+  background-color: #00000000;
+  display: flex;
+}
+
+#ad-alura:hover {
+  background-color: goldenrod;
+}
+
+img[src*="alura-lingua"] {
+  opacity: 100%;
+  width: 20%;
+}
+
+#ad-alura a + span {
+  font-size: 100%;
+  background-color: snow;
 }
