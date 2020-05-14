@@ -10,5 +10,4 @@ Repositório do código fonte produzido em cada aula da Imersão CSS da Alura
 * [Aula 05](https://github.com/caelum/imersaocss/archive/aula5.zip)
 
 ## Feito por mim: 
-* [Meu site](https://github.com/caelum/imersaocss/archive/meu-site.zip)
-Aula atual: **2**
+Aqui está [meu site](https://github.com/caelum/imersaocss/archive/meu-site.zip). Estou na aula **2** atualmente.
